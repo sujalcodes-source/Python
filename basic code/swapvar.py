@@ -6,4 +6,4 @@ a=b
 b=sum
 sum=a
 print(a, "is now b")
-print(sum, "is now a")
+print(sum , "is now a")
