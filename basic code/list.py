@@ -32,3 +32,6 @@ print(x)
 
 y=my_info.pop()
 print(y)
+
+my_info.remove("C")
+print(my_info)
