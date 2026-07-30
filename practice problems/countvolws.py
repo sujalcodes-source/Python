@@ -7,6 +7,7 @@
 #     if(name == vowals):
 #         print(f"There are vowals in your name")
 #     print("your name do not have vowals")
+
 #correct code | below
 
 text = input("Enter a string: ")
