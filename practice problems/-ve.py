@@ -4,4 +4,4 @@ if(num >0):
 elif(num < 0):
     print(f"Number is negative and this is your number {num}")
 else :
-    print(f"your number is zero , and this is your number {num}")
+    print(f"your number is zero , and this is your number{num}")
