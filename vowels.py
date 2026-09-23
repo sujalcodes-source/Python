@@ -26,4 +26,10 @@
 # * `if` statement
 # * `in` operator
 # * Counter variable
-sen = ""
+sen = "Hi my name is Sujal and i am a student studying cs :)"
+vowels = "aeiou"
+count = 0 
+for sens in sen:
+    if sens in vowels:
+        count += 1
+print(count)   
